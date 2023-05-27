@@ -15,6 +15,6 @@ CPU Scheduling is a process of determining which process will own CPU for execut
 
 ## Getting Started
 
-This project is a starting point for a Python flet application.
+This project is a starting point for a Python flet application, Build flutter apps in python by flet library.
 
 - [Project video preview on youtube](https://youtu.be/MwJH3VORgbU)
